@@ -1,15 +1,15 @@
 # Vagas
 
-* Para ver as vagas disponíveis, clique aqui <COLOCAR O LINK>
+* Para ver as vagas disponíveis, [clique aqui](https://github.com/macaetech/vagas/issues)
 
 * Para divulgar uma nova vaga:
 
-  * Detalhar a vaga conforme o template de exemplo em <COLOCAR O LINK>
+  * Detalhar a vaga conforme o template de exemplo disponibilizado [aqui](https://github.com/MacaeTech/vagas/blob/master/template.md)
     
   * Vaga detalhada? Ok! É hora de criar uma issue!
     * Em github.com/macaetech/vagas, clicar em Issues
       * NEW ISSUE <COLOCAR UMA IMAGEM>
-    * No título da issue, seguir o formato [NOME DA CIDADE] Front-End Developer na [NOME DA EMPRESA]
+    * No título da issue, seguir o formato [NOME DA CIDADE] Descrição da vaga [NOME DA EMPRESA]
     * Colocar a vaga detalhada 
     * Pronto! Agora é só clicar em SUBMIT NEW ISSUE <COLOCAR UMA IMAGEM>
  
