@@ -15,7 +15,7 @@
  
 * **Importante!**
   * Sempre que a vaga for preenchida, encerre a issue. Assim sua empresa não fica recebendo currículos de vagas que já foram preenchidas
-    * Para encerrar a issue, basta ir em github.com/macaetech/vagas, buscar sua issue e clicar em <VER O NOME DO BOTAO - COLOCAR UMA IMAGEM>
+    * Para encerrar a issue, basta ir em github.com/macaetech/vagas, buscar sua issue e clicar em CLOSE ISSUE
   * Ao encerrar a issue, informar se a vaga foi preenchida através deste canal 😄 
     
     
